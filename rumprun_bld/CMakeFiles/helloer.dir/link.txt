@@ -1,0 +1,1 @@
+/home/jksun/rumprun/./rumprun/bin/x86_64-rumprun-netbsd-gcc    CMakeFiles/helloer.dir/helloer.c.obj  -o helloer 

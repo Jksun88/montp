@@ -1,0 +1,3 @@
+/home/jksun/testrump/helo/rumprun_bld/CMakeFiles/rebuild_cache.dir
+/home/jksun/testrump/helo/rumprun_bld/CMakeFiles/helloer.dir
+/home/jksun/testrump/helo/rumprun_bld/CMakeFiles/edit_cache.dir

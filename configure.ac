@@ -1,0 +1,17 @@
+AC_PREREQ([2.66])
+AC_INIT([1], [2], [3])
+
+AC_CONFIG_SRCDIR([helloer.c])
+AC_CONFIG_HEADERS([config.h])
+AC_CONFIG_AUX_DIR([build-aux])
+
+AC_CANONICAL_TARGET
+
+AM_INIT_AUTOMAKE([1.11 foreign subdir-objects -Wall -Werror])
+AM_MAINTAINER_MODE
+
+AC_PROG_CC
+AC_PROG_CC_C_O
+
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT
